@@ -10,7 +10,13 @@
     "workerThreads": false
   },
   "dependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/commit-analyzer": "^9.0.2",
     "@semantic-release/error": "^3.0.0",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^8.0.2",
+    "@semantic-release/npm": "^9.0.0",
+    "@semantic-release/release-notes-generator": "^10.0.3",
     "aggregate-error": "^3.0.0",
     "execa": "^5.0.0",
     "fs-extra": "^10.0.0",
@@ -22,13 +28,7 @@
     "read-pkg": "^5.0.0",
     "registry-auth-token": "^4.0.0",
     "semver": "^7.1.2",
-    "tempy": "^1.0.0",
-    "@semantic-release/changelog": "^6.0.1",
-    "@semantic-release/commit-analyzer": "^9.0.2",
-    "@semantic-release/git": "^10.0.1",
-    "@semantic-release/github": "^8.0.2",
-    "@semantic-release/npm": "^9.0.0",
-    "@semantic-release/release-notes-generator": "^10.0.3"
+    "tempy": "^1.0.0"
   },
   "devDependencies": {
     "ava": "4.2.0",
