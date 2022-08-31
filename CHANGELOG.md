@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/autoclouddev/semantic-release-pnpm/compare/1.0.0...1.0.1) (2022-08-31)
+
+
+### Bug Fixes
+
+* **pnpm:** command on lib ([18b4d94](https://github.com/autoclouddev/semantic-release-pnpm/commit/18b4d94bfae453f229067ba177263807cc6338fa))
+
 # 1.0.0 (2022-08-31)
 
 
