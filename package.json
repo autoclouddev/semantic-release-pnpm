@@ -2,7 +2,7 @@
   "name": "semantic-release-pnpm",
   "homepage": "https://github.com/autoclouddev/semantic-release-pnpm",
   "description": "pnpm semantic-release plugin to publish a npm package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "ava": {
     "files": [
       "test/**/*.test.js"

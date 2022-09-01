@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/autoclouddev/semantic-release-pnpm/compare/1.0.1...1.0.2) (2022-09-01)
+
+
+### Bug Fixes
+
+* **pnpm:** homepage semantic-release-pnpm ([7e67160](https://github.com/autoclouddev/semantic-release-pnpm/commit/7e671600d5ca6d03a43f7354d049a06a08f615f1))
+
 ## [1.0.1](https://github.com/autoclouddev/semantic-release-pnpm/compare/1.0.0...1.0.1) (2022-08-31)
 
 
