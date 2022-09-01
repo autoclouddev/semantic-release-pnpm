@@ -13,7 +13,7 @@
 ## Install
 
 ```bash
-$ npm install semantic-release-npm -D
+$ npm install semantic-release-pnpm -D
 ```
 
 ## Usage
