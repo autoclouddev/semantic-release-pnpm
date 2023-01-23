@@ -1,6 +1,6 @@
 {
-  "name": "semantic-release-pnpm",
-  "homepage": "https://github.com/autoclouddev/semantic-release-pnpm",
+  "name": "@jer3m01/semantic-release-pnpm",
+  "homepage": "https://github.com/jer3m01/semantic-release-pnpm",
   "description": "pnpm semantic-release plugin to publish a npm package",
   "version": "1.0.2",
   "ava": {
