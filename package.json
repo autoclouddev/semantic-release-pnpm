@@ -38,13 +38,13 @@
     "delay": "5.0.0",
     "dockerode": "3.3.1",
     "get-stream": "6.0.1",
-    "got": "11.8.5",
+    "got": "12.5.3",
     "nyc": "15.1.0",
     "p-retry": "4.6.2",
     "semantic-release": "19.0.2",
     "sinon": "14.0.0",
     "stream-buffers": "3.0.2",
-    "xo": "0.36.1"
+    "xo": "0.53.1"
   },
   "engines": {
     "node": ">=16 || ^14.17"
